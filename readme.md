@@ -13,4 +13,37 @@ This notebook does a deeper dive into the classes around data analytics in Modul
 5. Detecting outliers through box plot visualisation and how to handle them using a remove_outliers_by_zscore function
 6. Missing v. Incorrect Data: understanding when and why incorrect data can be worse than missing data and how to analyse them both
 
+## Getting Started (Using the Repo)
 
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/toby-gardner-ai/uc-berkeley-aiml-course
+   cd uc-berkeley-aiml-course
+   ```
+
+2. **(Optional) Create a virtual environment**
+    ```bash 
+    python3 -m venv .venv
+    source .venv/bin/activate   # On Mac/Linux
+    .venv\Scripts\activate      # On Windows
+    ```
+
+3. **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Launch Jupyter Notebook**
+
+    ```bash
+    jupyter notebook
+    ```
+
+
+This opens a web page in the browser where you can then navigate into your notebooks/ folder and click on a notebook e.g. Mod4_Data_Analytics.ipynb.
+
+## Getting Started (Using Colab - notebook specific)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/uc-berkeley-aiml-course/blob/main/notebooks/Mod4_Data_Analytics.ipynb)
+
+You will need to move the datasets over.
