@@ -1,4 +1,4 @@
-#UC Berkeley Extension - Professional Certificate in AI & Machine Learning
+# UC Berkeley Extension - Professional Certificate in AI & Machine Learning
 
 The following notebooks cover various topics across AI & Machine Learning as part of the program - with helpful functions that can be repurposed and used in future projects. 
 
