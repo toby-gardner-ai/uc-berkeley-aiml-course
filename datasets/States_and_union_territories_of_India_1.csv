@@ -1,0 +1,38 @@
+State,ISO,"Vehicle
+code",Zone,Capital,Largest city,Statehood,"Population
+(2011)","Area
+(km2)","Official
+languages","Additional official
+languages"
+Andhra Pradesh,IN-AP,AP,Southern,Amaravati,Visakhapatnam,1 November 1956,"49,506,799","162,975",Telugu,Urdu
+Arunachal Pradesh,IN-AR,AR,North-Eastern,Itanagar,Itanagar,20 February 1987,"1,383,727","83,743",English,—
+Assam,IN-AS,AS,North-Eastern,Dispur,Guwahati,26 January 1950,"31,205,576","78,438","Assamese, Boro","Bengali, Meitei"
+Bihar,IN-BR,BR,Eastern,Patna,Patna,26 January 1950,"104,099,452","94,163",Hindi,Urdu
+Chhattisgarh,IN-CG,CG,Central,Raipur,Raipur,1 November 2000,"25,545,198","135,194",Hindi,Chhattisgarhi
+Goa,IN-GA,GA,Western,Panaji,Vasco da Gama,30 May 1987,"1,458,545","3,702",Konkani,Marathi
+Gujarat,IN-GJ,GJ,Western,Gandhinagar,Ahmedabad,1 May 1960,"60,439,692","196,024","Gujarati, Hindi",—
+Haryana,IN-HR,HR,Northern,Chandigarh,Faridabad,1 November 1966,"25,351,462","44,212",Hindi,Punjabi
+Himachal Pradesh,IN-HP,HP,Northern,"Shimla (Summer)
+Dharamshala (Winter)",Shimla,25 January 1971,"6,864,602","55,673",Hindi,Sanskrit
+Jharkhand,IN-JH,JH,Eastern,Ranchi,Jamshedpur,15 November 2000,"32,988,134","79,714",Hindi,"Angika, Bengali, Bhojpuri, Bhumij, Ho, Kharia, Khortha, Kurmali, Kurukh, Magahi, Maithili, Mundari, Nagpuri, Odia, Santali, Urdu"
+Karnataka,IN-KA,KA,Southern,Bengaluru,Bengaluru,1 November 1956,"61,095,297","191,791",Kannada,—
+Kerala,IN-KL,KL,Southern,Thiruvananthapuram,Kochi,1 November 1956,"33,406,061","38,863",Malayalam,English
+Madhya Pradesh,IN-MP,MP,Central,Bhopal,Indore,1 November 1956,"72,626,809","308,252",Hindi,—
+Maharashtra,IN-MH,MH,Western,"Mumbai (Summer)
+Nagpur (Winter)",Mumbai,1 May 1960,"112,374,333","307,713",Marathi,—
+Manipur,IN-MN,MN,North-Eastern,Imphal,Imphal,21 January 1972,"2,855,794","22,327",Meitei,English
+Meghalaya,IN-ML,ML,North-Eastern,Shillong,Shillong,21 January 1972,"2,966,889","22,429",English,—
+Mizoram,IN-MZ,MZ,North-Eastern,Aizawl,Aizawl,20 February 1987,"1,097,206","21,081","Mizo, English",—
+Nagaland,IN-NL,NL,North-Eastern,Kohima,Dimapur,1 December 1963,"1,978,502","16,579",English,—
+Odisha,IN-OD,OD,Eastern,Bhubaneswar,Bhubaneswar,26 January 1950,"41,974,218","155,707",Odia,—
+Punjab,IN-PB,PB,Northern,Chandigarh,Ludhiana,1 November 1966,"27,743,338","50,362",Punjabi,—
+Rajasthan,IN-RJ,RJ,Northern,Jaipur,Jaipur,26 January 1950,"68,548,437","342,239",Hindi,English
+Sikkim,IN-SK,SK,North-Eastern,Gangtok,Gangtok,16 May 1975,"610,577","7,096","Nepali, Sikkimese, Lepcha, English","Gurung, Limbu, Magar, Mukhia, Newari, Rai, Sherpa, Tamang"
+Tamil Nadu,IN-TN,TN,Southern,Chennai,Chennai,1 November 1956,"72,147,030","130,058",Tamil,English
+Telangana,IN-TS,TG,Southern,Hyderabad,Hyderabad,2 June 2014,"35,193,978","112,077",Telugu,Urdu
+Tripura,IN-TR,TR,North-Eastern,Agartala,Agartala,21 January 1972,"3,673,917","10,491","Bengali, English, Kokborok",—
+Uttar Pradesh,IN-UP,UP,Central,Lucknow,Lucknow,26 January 1950,"199,812,341","240,928",Hindi,Urdu
+Uttarakhand,IN-UK,UK,Central,"Bhararisain (Summer)
+Dehradun (Winter)",Dehradun,9 November 2000,"10,086,292","53,483",Hindi,Sanskrit
+West Bengal,IN-WB,WB,Eastern,Kolkata,Kolkata,26 January 1950,"91,276,115","88,752","Bengali, English","Nepali, Hindi, Odia, Punjabi, Santali, Telugu, Urdu, Kamatapuri, Rajbanshi, Kurmali, Kurukh"
+Total,,,,,,,"1,178,310,321","3,054,066",,
