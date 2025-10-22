@@ -13,6 +13,17 @@ This notebook does a deeper dive into the classes around data analytics in Modul
 5. Detecting outliers through box plot visualisation and how to handle them using a remove_outliers_by_zscore function
 6. Missing v. Incorrect Data: understanding when and why incorrect data can be worse than missing data and how to analyse them both
 
+### Mod6_PCA_Clustering
+This notebook does a deeper dive into the classes around PCA and Clustering in Modules 6 providing you practical applications to handle, such as:
+1. Initial and ongoing analysis of your datasets using summary_stats function
+2. Preliminary data cleaning and preparatory techniques - including missing data, detecting and removing outliers, dropping columns that are too unique or not unique
+3. Feature Engineering: how to create new features from existing features e.g. dt_customer
+4. Scaling: why it matters for numerical data and simple tools you can use
+5. PCA: key assumptions, alternatives
+6. PCA Analysis: how to interpret PCA using scree plots et. al + how to use it in your (future) model
+7. Unsupervised learning features: how to add PC and Cluster features into your existing dataset
+8. Next steps: what other steps remain before we're ready to select and run a model
+
 ## Getting Started (Using the Repo)
 
 1. **Clone the repo**
