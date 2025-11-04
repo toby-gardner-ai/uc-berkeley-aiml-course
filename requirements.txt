@@ -4,3 +4,11 @@ matplotlib
 seaborn
 jupyter
 scikit-learn
+tokenizers
+beautifulsoup4
+requests
+#mermaid
+#jupyterlab-mermaid
+mermaid-python
+jupyterlab-mermaid
+spacy

@@ -24,6 +24,33 @@ This notebook does a deeper dive into the classes around PCA and Clustering in M
 7. Unsupervised learning features: how to add PC and Cluster features into your existing dataset
 8. Next steps: what other steps remain before we're ready to select and run a model
 
+### Mod8_Feat_Engineering
+This notebook deep-dives into feature engineering in the context of both traditional machine learning and large language models (LLMs). You will explore practical techniques to transform raw data into model-ready formats, understand how these transformations differ across ML paradigms, and build intuition for the encoding foundations that power modern LLMs.
+
+Specifically, this notebook covers:
+1. Traditional ML Feature Encoding
+- Apply one-hot and ordinal encoding to structured categorical data
+- Understand how these approaches create explicit features for downstream models
+2. Text Feature Engineering for LLMs
+- Learn how LLMs defer feature identification to the model itself, discovering latent features during training
+- Compare traditional feature engineering workflows with LLM pipelines
+3. Chunking & Tokenisation Concepts
+- Explore chunking as a preparation step for large text corpora
+- Understand the difference between text splitting, tokenisation, and encoding
+4. BPE Tokenizer Training
+- Build and train a Byte Pair Encoding (BPE) tokenizer on a text corpus
+- Observe how tokenisers extract frequent subword patterns (feature extraction)
+- Map these patterns to stable numeric IDs suitable for model training (feature engineering)
+5. Practical Tokenisation Demo
+- Inspect vocabulary and learned subword units
+- Tokenise real text samples and compare results to traditional encoders
+6. Conceptual Bridges & Diagrams
+- Use flow diagrams to illustrate the end-to-end LLM ingestion pipeline
+- Reinforce how tokenisation transforms text into embedding-ready numerical form
+
+By the end of this module, you’ll not only know how to encode features in both traditional and LLM settings — you’ll also understand why encoding matters, what information is preserved or lost through different methods, and how tokenisation forms the foundation of modern language model capability.
+
+
 ## Getting Started (Using the Repo)
 
 1. **Clone the repo**

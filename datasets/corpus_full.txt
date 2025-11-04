@@ -1,0 +1,83 @@
+Invite Your Colleague and Save US$500
+Advance your business problem-solving skills with ML/AI
+By clicking the button below, you agree to receive communications via Email/Call/WhatsApp/SMS from UC Berkeley & Emeritus about this program and other relevant programs. Privacy Policy
+Industries across the globe are undergoing a transformation driven by machine learning (ML) and artificial intelligence (AI). These technologies are fundamentally changing how businesses operate and how consumers experience the world. This change is fueling global demand for skilled professionals who can develop the next generation of AI/ML innovations, including generative AI (GenAI) tools.The Professional Certificate in Machine Learning and Artificial Intelligence provides you with the tools and knowledge to thrive in this evolving field. This program equips you with a comprehensive foundation in ML/AI as well as advanced knowledge in data analytics, deep neural networks, natural language processing (NLP), and generative AI. You will gain practical insights into the business applications of these technologies and discover the full extent of their potential.You will learn from the world-class faculty of Berkeley Executive Education, a prestigious institution ranked among the top five in the U.S. News & World Report Best Global Universities Rankings, through a program developed in collaboration with UC Berkeley's College of Engineering and the Haas School of Business.Throughout this six-month program, you will develop practical, hands-on experience using cutting-edge ML/AI tools and platforms. In addition, you will receive valuable career guidance to help you navigate and succeed in this fast-paced industry. This program is designed to equip you with the market-ready skills you need to launch a fulfilling career in ML/AI.
+This program is designed to provide participants with the essential knowledge and practical applications of ML/AI tools and frameworks needed to transition into a high-demand career in this field. This program is for anyone with a technology or math background, including:IT and engineering professionals who want to unlock new opportunities for career growth or chart a cutting-edge career pathData and business analysts who want to gain better growth trajectoriesRecent science, technology, engineering, and mathematics (STEM) graduates and academics who want to enter the private sector and scale the positive impact of evolving technologies
+A bachelor's degree or higher
+Strong math skills
+Some programming experience
+An educational background in STEM fields
+Technical work experience
+Some experience with Python,R, or SQL
+Some experience with statistics and calculus
+Develop a comprehensive understanding of ML/AI concepts, and identify the best ML models to fit various business situations
+Learn how to implement the ML/data science life cycle, and devise cutting-edge solutions to real-life problems within your organization
+Interact and collaborate with industry experts to understand the technical and business applications of ML/AI
+Analyze generative AI models such as ChatGPT and test their efficacy
+Explore innovative business applications for generative AI
+Develop a market-ready GitHub portfolio to show prospective employers
+Learn from UC Berkeley's globally recognized faculty, and gain a verified digital certificate of completion from UC Berkeley Executive Education
+This program introduces learners to the fundamental applications of automation and machine learning, while also allowing them to explore the current capabilities and potential of generative AI.
+The knowledge gained each week in this ML/AI program prepares you to conduct your own research and analysis in a capstone project. You will gain the opportunity to interact with industry experts to identify a specific problem within your field and leverage their expertise along with the concepts, models, and tools taught in the program to devise a solution to your chosen problem. By the end of the program, you will come away with a professional-quality GitHub portfolio presentation that you can share on your LinkedIn profile or with potential employers.
+Over the course of this program, you will gain hands-on coding experience using the following tools:
+Python
+Jupyter
+Pandas
+Google Colab
+Seaborn
+Plotly
+GitHub
+Codio
+Researcher and lecturer with the Mechanical Engineering Department and the Institute of Transportation Studies at UC Berkeley
+Gabriel Gomes is a researcher and lecturer with the Mechanical Engineering Department and the Institute of Transportation Studies at UC Berkeley. He received a doctorate degre...
+More info
+Associate Teaching Professor with the department of Electrical Engineering and Computer Sciences at UC Berkeley
+Joshua Hug has been with the department of Electrical Engineering and Computer Sciences at UC Berkeley since 2014 and was a lecturer at Princeton University from 2011 to 2014....
+More info
+Associate Professor of Business and Public Policy and Economics at UC Berkeley
+Reed Walker is an associate professor of business and public policy and economics at UC Berkeley. His research explores the social costs of environmental externalities, such a...
+More info
+Associate Professor | Egon & Joan Von Kaschnitz Distinguished Professorship
+Jonathan Kolstad is an Associate Professor of Economic Analysis and Policy at Berkeley Haas and a research associate at the National Bureau of Economic Research. He is also th...
+More info
+Learn from UC Berkeley's globally recognized faculty
+Earn a certificate of completion from UC Berkeley Executive Education
+Explore advanced topics such as generative AI (GenAI)
+Learn how to implement the ML/data science lifecycle within your own organization
+Build a GitHub portfolio to share with recruiters and potential employers
+Embark on an exciting journey to understand, build, and deploy generative AI. Embark on an exciting journey to understand and deploy generative AI. With a dedicated module on generative AI fundamentals, you will grasp the limitations and potential of these technologies for real-world applications. You will learn how to use generative AI models for innovative business use cases, seamlessly integrate APIs on current platforms, and run small image generators or language models locally. By the end, you will be equipped with the skills to use cutting-edge AI tools and lead in the dynamic AI-driven world.
+Gain a deeper understanding of ML/Al models and applications through real-world industry examples. Take away new ideas and problem-solving concepts to solve complex ML/Al problems within your own organization.
+Peet's Coffee
+Learn how this specialty coffee roaster and retailer in the San Francisco Bay Area uses ML to determine the best location for new stores.
+Transitioning to a career in ML/AI engineering requires a variety of hard and soft skills. This program guides you as you navigate your journey to your new career path, including crafting an elevator pitch and communication tips. These services are provided by Emeritus, our learning collaborator for this program. The program support team includes program facilitators who will help you reach your learning goals and career coaches to guide you through your job search. Our primary goal is to give you the skills needed to be prepared for a job in this field; however, job placement is not guaranteed.
+Crafting your elevator pitch
+Navigating your job search
+LinkedIn profile guidance
+Interview tips and preparation
+Resume/cover letters
+Negotiating salary
+Job search and interviewing for ML/AI positions
+Communicating ML/AI concepts through presentation skills
+Note: Learners will have access to up to 3 individualized career coaching sessions as an integral part of the program. Additional sessions may be requested based on demonstrated progress and alignment with the learner’s professional goals.
+Enrolling in the Professional Certificate in Machine Learning and Artificial Intelligence program can become your first step toward pursuing the UC Berkeley Executive Education Certificate of Business Excellence (COBE). The Certificate of Business Excellence gives individuals the opportunity to acquire and hone new skills and do it on a timeline that works with your busy schedule. Participants will earn a mark of distinction with certification from a world-class university, and enjoy the flexibility of completing the program in up to three years.Learn more about the program and associated alumni benefits here.
+Join local alumni chapters or clubs in your region
+Participate in the annual Berkeley Haas Alumni Conference
+Attend select Berkeley Haas and Berkeley Executive Education Networking events open to the COBE community
+Activate an @haas.executivealumni.berkeley.edu email forwarding address
+15% discount on the list price of future eligible Berkeley Executive Education programs.
+30% discount on the list price of future eligible programs after completion of your Certificate of Business Excellence.
+Public visitor access to select campus libraries and university database services
+A one-year complimentary digital subscription to California Management Review
+Berkeley Haas Alumni newsletter
+Berkeley Haas Alumni Jobs e-Newsletter featuring job postings from distinguished employers
+Haas Insights offering the latest research and thought leadership from industry speakers and faculty
+Note: All benefits are subject to change. The discounts mentioned may not be combined with other promotions or special offers.
+Get recognized! Upon successful completion of the program, UC Berkeley Executive Education grants a verified digital certificate of completion to participants. Participants must complete 80% of the required activities including a capstone project (if any) to obtain the certificate of completion. This program also counts toward a Certificate of Business Excellence.
+Successful completion of this program fulfills four curriculum days (minimum requirement of 17 curriculum days) towards the UC Berkeley Certificate of Business Excellence (COBE).
+Learn more about how it works.
+Note: This program results in a digital certificate of completion and is not eligible for degree credit/CEUs. After successful completion of the program, your verified digital certificate will be emailed to you in the name you used when registering for the program. All certificate images are for illustrative purposes only and may be subject to change at the discretion of UC Berkeley College of Engineering, Haas School of Business, and Berkeley Executive Education.
+Didn't find what you were looking for? Write to us at learner.success@emeritus.org or Schedule a call with one of our Program Advisors or call us at +1 315 904 9320 (U.S.) +44 131 381 6127 (U.K.) +65 3138 9495 (Singapore)
+Learn more
+Starts On
+UC Berkeley Executive Education is collaborating with online education provider Emeritus to offer a portfolio of high-impact online programs. These programs leverage UC Berkeley Executive Education's thought leadership in management practice developed over years of research, teaching, and application. By working with Emeritus, we are able to broaden access beyond our on-campus offerings in a collaborative and engaging format that stays true to the quality of the University of California, Berkeley.
+Accessibility
