@@ -50,10 +50,6 @@ Specifically, this notebook covers:
 
 By the end of this module, you’ll not only know how to encode features in both traditional and LLM settings — you’ll also understand why encoding matters, what information is preserved or lost through different methods, and how tokenisation forms the foundation of modern language model capability.
 
-### Mod10_Time_Series
-Got it — here is a **cleaner, tighter, punchier** version:
-
----
 
 ### Mod10_Time_Series
 
