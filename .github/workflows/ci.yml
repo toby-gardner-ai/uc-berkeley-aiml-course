@@ -1,0 +1,16 @@
+name: CI
+
+on: [pull_request, push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      -uses: actions/checkout@v3
+      -uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+      run: pip install -r requirements.txt
+      run: flake8 src/
+      run: black -- check .
+      run: pip-audit
