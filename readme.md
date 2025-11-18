@@ -50,6 +50,42 @@ Specifically, this notebook covers:
 
 By the end of this module, you’ll not only know how to encode features in both traditional and LLM settings — you’ll also understand why encoding matters, what information is preserved or lost through different methods, and how tokenisation forms the foundation of modern language model capability.
 
+### Mod10_Time_Series
+Got it — here is a **cleaner, tighter, punchier** version:
+
+---
+
+### Mod10_Time_Series
+
+This notebook provides a structured, end-to-end introduction to practical time-series forecasting. It focuses on clarity, workflow, and best practices—helping you understand not just *how* to run models, but *why* each step matters.
+
+Specifically, this notebook covers:
+**1. Time-Series Workflow Overview**
+A visual roadmap of the full pipeline—from raw data to forecasting—with a Mermaid diagram showing how each section fits together.
+
+**2. Stationarity & Diagnostics**
+How to detect trend, variance shifts, and autocorrelation patterns using both visuals and tests (ADF/KPSS). Includes a concise “At a glance” summary of what to look for.
+
+**3. Target Transformations**
+When to apply logs, differences, or returns to stabilise the series. Clear rules-of-thumb and visual examples demonstrate how transformations impact stationarity.
+
+**4. Feature Engineering for Time-Series**
+Explains endogenous (lags, rolling stats) vs exogenous features (macro, indices, holidays) and how to avoid leakage when constructing them.
+
+**5. Model Selection & Evaluation**
+Covers simple baselines, ML/deep learning options, and why rolling backtests outperform random splits. Introduces key metrics for multi-horizon forecasting.
+
+**6. AutoGluon Forecasting**
+Shows how to prepare the data, configure covariates, train models, and interpret results using AutoGluon’s time-series suite.
+
+**7. Forecast Interpretation**
+Guidelines for sanity-checking predictions, understanding uncertainty, and spotting unrealistic behaviour.
+
+**8. Common Pitfalls**
+A short list of high-impact mistakes to avoid: leakage, over-differencing, bad evaluation splits, and misuse of metrics.
+
+By the end, you’ll have a clear, repeatable workflow for diagnosing, transforming, modelling, and evaluating any time-series dataset.
+
 
 ## Getting Started (Using the Repo)
 

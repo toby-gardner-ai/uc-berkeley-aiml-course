@@ -1,14 +1,32 @@
+#### Data Analytics ####
 pandas
 numpy
+#### Data Visualisation ####
 matplotlib
 seaborn
-jupyter
-scikit-learn
-tokenizers
+#### Web Data Collection ####
 beautifulsoup4
 requests
-#mermaid
-#jupyterlab-mermaid
+yfinance
+
+#### Jupyter Notebooks ####
+jupyter
+ipykernel
 mermaid-python
-jupyterlab-mermaid
+
+scikit-learn
+tokenizers
+
+
+#jupyterlab-mermaid
 spacy
+### Time-Series ###
+autogluon
+statsmodels
+#### CI / CD ####
+# Style
+flake8
+# Formatting
+black
+# Dependency Vulnerabilities
+pip-audit
