@@ -4,10 +4,15 @@ numpy
 #### Data Visualisation ####
 matplotlib
 seaborn
+mlxtend
 #### Web Data Collection ####
 beautifulsoup4
 requests
 yfinance
+#### GenAI ####
+litellm
+sentence-transformers
+tokenizers
 
 #### Jupyter Notebooks ####
 jupyter
@@ -15,7 +20,7 @@ ipykernel
 mermaid-python
 
 scikit-learn
-tokenizers
+
 
 
 #jupyterlab-mermaid
