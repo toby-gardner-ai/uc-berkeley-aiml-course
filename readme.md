@@ -82,6 +82,31 @@ A short list of high-impact mistakes to avoid: leakage, over-differencing, bad e
 
 By the end, you’ll have a clear, repeatable workflow for diagnosing, transforming, modelling, and evaluating any time-series dataset.
 
+### Mod12_KNN_Vector_search
+This notebook looks at KNN and its commonly used distance metrics to see how the world of GenAI are using variations for use cases such as Information Retrieval (RAG). 
+
+Specifically, this notebook covers:
+
+**1. KNN**
+What it is and what it does
+
+**2. Visualising KNN**
+How to look at the nearest neighbors and consider the implications of decision regions
+
+**3. Distance Metrics**
+What they are, how to think about them, and when to use
+
+**4. Embedding Models**
+A continuation of Mod8_Feat_engineering where we look at how the tokens become embedding vectors
+
+**5. Information Retrieval**
+Embedding an article and a query to see what relevant results are returned
+
+**6. Evaluation**
+Common Eval Metrics for Information Retrieval such as precision@k, MRR, NDCG, and Latency
+
+**7. Conclusion**
+Issues with KNN at scale and how we approximate KNN to make things go faster
 
 ## Getting Started (Using the Repo)
 
