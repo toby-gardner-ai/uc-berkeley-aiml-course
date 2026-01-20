@@ -2,6 +2,8 @@
 # Style
 flake8==7.0.0
 # Formatting
-black==24.1.1
+black==24.3.0
 # Dependency Vulnerabilities
 pip-audit==2.7.3
+filelock==3.20.3
+
