@@ -108,6 +108,35 @@ Common Eval Metrics for Information Retrieval such as precision@k, MRR, NDCG, an
 **7. Conclusion**
 Issues with KNN at scale and how we approximate KNN to make things go faster
 
+### Mod16_Nonlinear_feat_SVM
+This notebook explores Support Vector Machines (SVMs) as a powerful classification technique, with a focus on how non-linear feature relationships can be identified and exploited using kernel methods.
+
+Specifically, this notebook covers:
+
+**1. Dataset & EDA**
+An overview of the dataset, summary statistics, and initial exploration to understand feature distributions and class structure.
+
+**2. Detecting Non-Linear Features**
+Using correlation and mutual information to identify features that exhibit non-linear relationships with the target variable.
+
+**3. SVM Fundamentals**
+An intuitive explanation of how SVMs work, including the role of margins, support vectors, and kernel functions.
+
+**4. Baseline Models**
+Establishing baseline performance to anchor expectations and avoid over-engineering too early.
+
+**5. Model Pipelines & Tuning**
+Building end-to-end pipelines with scaling, cross-validation, and hyperparameter tuning using GridSearchCV.
+
+**6. Evaluation**
+Assessing model performance using confusion matrices, accuracy, F1 score, and inference latency to highlight practical trade-offs.
+
+**7. Linear vs Non-Linear Models**
+Comparing kernelized SVMs against a linear baseline to understand when non-linear complexity is justified.
+
+**8. Summary & Takeaways**
+Key lessons on identifying non-linear structure, choosing appropriate kernels, and balancing performance gains against computational cost.
+
 ## Getting Started (Using the Repo)
 
 1. **Clone the repo**
