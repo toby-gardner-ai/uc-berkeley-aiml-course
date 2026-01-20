@@ -1,4 +1,4 @@
-from IPython.display import Image, HTML, display
+from IPython.display import HTML, display
 import pathlib
 
 def show_mermaid_diagram(name, center=True, width=None):
