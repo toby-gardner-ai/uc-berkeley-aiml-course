@@ -1,0 +1,7 @@
+# CI Workflow
+# Style
+flake8==7.0.0
+# Formatting
+black==24.1.1
+# Dependency Vulnerabilities
+pip-audit==2.7.3

@@ -28,10 +28,4 @@ spacy
 ### Time-Series ###
 autogluon
 statsmodels
-#### CI / CD ####
-# Style
-flake8
-# Formatting
-black
-# Dependency Vulnerabilities
-pip-audit
+
