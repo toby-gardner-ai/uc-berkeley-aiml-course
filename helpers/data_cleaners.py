@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+
 def summary_stats(df) -> pd.DataFrame:
 
     # Create base frame
@@ -8,10 +9,10 @@ def summary_stats(df) -> pd.DataFrame:
 
     stats["dtype"] = df.dtypes
 
-
-    stats["sample_val"] = [df[col].dropna().sample(1).iloc[0]
-                            if df[col].notna().any() else np.nan
-                            for col in df.columns]
+    stats["sample_val"] = [
+        df[col].dropna().sample(1).iloc[0] if df[col].notna().any() else np.nan
+        for col in df.columns
+    ]
 
     stats["vals"] = df.count()
     stats["miss_pct"] = (df.isna().sum() / len(df) * 100).round(1)
@@ -47,16 +48,18 @@ def snake_cols(df) -> pd.DataFrame:
     df = df.copy()
 
     # Normalize column names
-    df.columns = (df.columns
-                  # Remove special characters
-                  .str.replace(r'[^\w\s-]', '', regex=True)
-                  # Convert camelCase to snake_case
-                  .str.replace(r'([a-z0-9])([A-Z])', r'\1_\2', regex=True)
-                  # Convert PascalCase to snake_case
-                  .str.replace(r'([A-Z]+)([A-Z][a-z])', r'\1_\2', regex=True)
-                  # General
-                  .str.replace(r'[\n\s]+', '_', regex=True)
-                  # Consistency
-                  .str.lower())
+    df.columns = (
+        df.columns
+        # Remove special characters
+        .str.replace(r"[^\w\s-]", "", regex=True)
+        # Convert camelCase to snake_case
+        .str.replace(r"([a-z0-9])([A-Z])", r"\1_\2", regex=True)
+        # Convert PascalCase to snake_case
+        .str.replace(r"([A-Z]+)([A-Z][a-z])", r"\1_\2", regex=True)
+        # General
+        .str.replace(r"[\n\s]+", "_", regex=True)
+        # Consistency
+        .str.lower()
+    )
 
     return df
