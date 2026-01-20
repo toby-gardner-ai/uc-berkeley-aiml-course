@@ -1,16 +1,32 @@
 name: CI
 
-on: [pull_request, push]
+on:
+  push:
+  pull_request:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      -uses: actions/checkout@v3
-      -uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
-      run: pip install -r requirements.txt
-      run: flake8 src/
-      run: black -- check .
-      run: pip-audit
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Lint with flake8
+        run: flake8 src/
+
+      - name: Format check with black
+        run: black --check .
+
+      - name: Security audit
+        run: pip-audit
