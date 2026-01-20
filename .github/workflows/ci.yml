@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Lint with flake8
-        run: flake8 src/
+        run: flake8 helpers
 
       - name: Format check with black
         run: black --check .
