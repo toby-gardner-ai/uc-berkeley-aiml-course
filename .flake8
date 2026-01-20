@@ -1,0 +1,5 @@
+[flake8]
+select = F401
+exclude =
+    **/.ipynb_checkpoints,
+    notebooks/.ipynb_checkpoints
