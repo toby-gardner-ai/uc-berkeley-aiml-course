@@ -9,12 +9,16 @@ import base64
 # DATA SOURCE VALIDATION
 ######################################################################################
 
+
 class URLPolicy(BaseModel):
     approved_protocols: set[str] = Field(default_factory=lambda: {"https", "http"})
-    approved_domains: set[str] = Field(default_factory=lambda: {"calbears.com", "berkeley.edu"})
+    approved_domains: set[str] = Field(
+        default_factory=lambda: {"calbears.com", "berkeley.edu"}
+    )
     disallowed_extensions: set[str] = Field(
         default_factory=lambda: {".json", ".xml", ".csv", ".zip", ".exe", ".tar", ".gz"}
     )
+
 
 class ApprovedURL(BaseModel):
     url: str
@@ -50,21 +54,27 @@ class ApprovedURL(BaseModel):
 # INPUT/QUERY VALIDATION
 ######################################################################################
 class QueryPolicy(BaseModel):
-    dangerous_patterns: list[str] = Field(default_factory=lambda: [
-        r"ignore\s*(all\s*)?previous\s*instructions?",
-        r"you\s*are\s*now\s*(in\s*)?developer\s*mode",
-        r"system\s*override",
-        r"reveal\s*prompt",
-    ])
+    dangerous_patterns: list[str] = Field(
+        default_factory=lambda: [
+            r"ignore\s*(all\s*)?previous\s*instructions?",
+            r"you\s*are\s*now\s*(in\s*)?developer\s*mode",
+            r"system\s*override",
+            r"reveal\s*prompt",
+        ]
+    )
 
-    unicode_patterns: list[str] = Field(default_factory=lambda: [
-        r"(\u202b|\u202e)",               # Bidi right-to-lefts
-        r"(\u2067|\u2068|\u2069)",        # BIDI isolates
-    ])
+    unicode_patterns: list[str] = Field(
+        default_factory=lambda: [
+            r"(\u202b|\u202e)",  # Bidi right-to-lefts
+            r"(\u2067|\u2068|\u2069)",  # BIDI isolates
+        ]
+    )
 
-    base64_patterns: list[str] = Field(default_factory=lambda: [
-        r"([A-Za-z0-9+/]{4}){3,}([A-Za-z0-9+/]{3}=|[A-Za-z0-9+/]{2}==)?"
-    ])
+    base64_patterns: list[str] = Field(
+        default_factory=lambda: [
+            r"([A-Za-z0-9+/]{4}){3,}([A-Za-z0-9+/]{3}=|[A-Za-z0-9+/]{2}==)?"
+        ]
+    )
 
 
 class ApprovedQuery(BaseModel):
@@ -92,7 +102,11 @@ class ApprovedQuery(BaseModel):
                 candidate = m.group(0)
 
                 # quick filters to reduce false positives
-                if len(candidate) % 4 != 0 or candidate.isalpha() or candidate.isdigit():
+                if (
+                    len(candidate) % 4 != 0
+                    or candidate.isalpha()
+                    or candidate.isdigit()
+                ):
                     continue
 
                 try:
