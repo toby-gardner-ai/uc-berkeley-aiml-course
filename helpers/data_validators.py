@@ -3,7 +3,7 @@ from urllib.parse import urlparse
 import os
 import re
 import base64
-from typing import ClassVar, Set
+
 
 ######################################################################################
 # DATA SOURCE VALIDATION
