@@ -137,6 +137,47 @@ Comparing kernelized SVMs against a linear baseline to understand when non-linea
 **8. Summary & Takeaways**
 Key lessons on identifying non-linear structure, choosing appropriate kernels, and balancing performance gains against computational cost.
 
+### Mod 18_NLP_in_GenAI
+In this module, I walk through how multiple NLP techniques fit together when building a practical GenAI application, from raw web data ingestion through to ranked retrieval results.
+
+Specifically we'll cover the following using NLP:
+**Data Collection**
+Validate and ingest external inputs (URLs and user queries) using Pydantic and regular expressions - applying basic security, policy, and format checks before any downstream processing.
+**Data Preparation**
+Fetch and parse raw webpage content, extracting text and splitting it into a clean, sentence-level DataFrame that becomes the shared corpus for all NLP steps.
+**EDA**
+Exploratory data analysis (EDA) using Word Clouds to understand dominant vocabulary, leveraging Bag-of-Words and TF-IDF
+**Retrieval Engines**
+Build multiple retrieval representations from the same corpus:
+- Dense embeddings for semantic search (cosine and dot-product similarity).
+- Sparse TF-IDF matrices for keyword retrieval.
+- A BM25 index (alternative to TF-IDF) for keyword/lexical retrieval
+**Query Validation**
+Validate user queries using regular expressions and apply query decomposition using POS-Tags to route keyword-rich queries to TF-IDF and BM25
+**Scaling**
+Scale all results using StandardScaler before comparing across search methods
+Rank retrieved sentences, scaled scores for comparability, track retrieval latency, and return a unified df for initial evaluation
+
+### Mod 20_ensemble_GenAI
+This notebook explores ensemble retrieval techniques for Retrieval-Augmented Generation (RAG), demonstrating how combining multiple retrievers through learned meta-rankers can meaningfully outperform any single retrieval strategy.
+Specifically, this notebook covers:
+
+**Data Preparation**
+An overview of the corpus chunking strategy using The Godfather as a text source, including chunk construction and query-chunk pair generation.
+**Baseline Retrievers** 
+Four independent retrieval strategies are established — cosine similarity, dot product (semantic), TF-IDF and BM25 (lexical) — each representing a different approach to matching queries to chunks.
+**Baseline Evaluation** 
+Each retriever is benchmarked individually using Recall@1, Recall@5, MRR, and latency (p95) to establish the performance floor that ensembles must beat.
+**Candidate Scoring**
+A feature matrix is constructed by pooling the top-k candidates from all four retrievers and recording each candidate's scores and ranks across every retriever — the input to the Ensemble Models.
+**Labelling & Train/Test**
+Split Candidate pairs are labelled for correct query-chunk pairs and split at the query level to prevent leakage across candidates belonging to the same query.
+**Stacking (LogReg)**
+A Logistic Regression meta-ranker is trained to re-rank pooled query-chunk candidates by learning a weighted combination of retriever signals.
+**Boosting Ensemble **
+A Gradient Boosted Decision Tree meta-ranker is trained sequentially, with each tree focusing on correcting the errors of the previous — capturing non-linear interactions between retriever signals.
+**Evaluation & Comparison** 
+All retrievers and ensembles are compared head-to-head on accuracy and latency metrics, with discussion of the trade-offs between retrieval quality and inference cost.
 ## Getting Started (Using the Repo)
 
 1. **Clone the repo**
