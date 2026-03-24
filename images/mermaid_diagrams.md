@@ -108,6 +108,36 @@ flowchart TD
     style D fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
     style E fill:#c8e6c9,stroke:#2e7d32,stroke-width:1px
     style F fill:#f1f8e9,stroke:#2e7d32,stroke-width:1px
+    end
+
+```
 
 
+```mermaid name=mod18_overview
+flowchart TD
+    U["<b>User Input</b><br/>URL + Query"]
+
+    U --> V["URL & Query Validation<br/>(Regex + Pydantic)"]
+    V --> D["Webpage → Sentences<br/>(df)"]
+
+    D --> E1["Embeddings<br/>(cos / dot)"]
+    D --> E2["TF-IDF"]
+    D --> E3["BM25"]
+
+    U --> Q["Validated Query"]
+
+    Q --> S1["Dense Search"]
+    Q --> S2["TF-IDF Search"]
+    Q --> S3["BM25 Search"]
+
+    S1 --> R["Ranked Results DF"]
+    S2 --> R
+    S3 --> R
+    
+    %% --- Styling ---
+    style U fill:#fffde7,stroke:#f9a825
+    style V fill:#e3f2fd,stroke:#1565c0
+    style D fill:#e8f5e9,stroke:#2e7d32
+    style R fill:#f9fbe7,stroke:#9e9d24
+    end
 ```

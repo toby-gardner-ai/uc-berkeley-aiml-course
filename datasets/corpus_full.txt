@@ -1,8 +1,8 @@
 Invite Your Colleague and Save US$500
 Advance your business problem-solving skills with ML/AI
 By clicking the button below, you agree to receive communications via Email/Call/WhatsApp/SMS from UC Berkeley & Emeritus about this program and other relevant programs. Privacy Policy
-Industries across the globe are undergoing a transformation driven by machine learning (ML) and artificial intelligence (AI). These technologies are fundamentally changing how businesses operate and how consumers experience the world. This change is fueling global demand for skilled professionals who can develop the next generation of AI/ML innovations, including generative AI (GenAI) tools.The Professional Certificate in Machine Learning and Artificial Intelligence provides you with the tools and knowledge to thrive in this evolving field. This program equips you with a comprehensive foundation in ML/AI as well as advanced knowledge in data analytics, deep neural networks, natural language processing (NLP), and generative AI. You will gain practical insights into the business applications of these technologies and discover the full extent of their potential.You will learn from the world-class faculty of Berkeley Executive Education, a prestigious institution ranked among the top five in the U.S. News & World Report Best Global Universities Rankings, through a program developed in collaboration with UC Berkeley's College of Engineering and the Haas School of Business.Throughout this six-month program, you will develop practical, hands-on experience using cutting-edge ML/AI tools and platforms. In addition, you will receive valuable career guidance to help you navigate and succeed in this fast-paced industry. This program is designed to equip you with the market-ready skills you need to launch a fulfilling career in ML/AI.
-This program is designed to provide participants with the essential knowledge and practical applications of ML/AI tools and frameworks needed to transition into a high-demand career in this field. This program is for anyone with a technology or math background, including:IT and engineering professionals who want to unlock new opportunities for career growth or chart a cutting-edge career pathData and business analysts who want to gain better growth trajectoriesRecent science, technology, engineering, and mathematics (STEM) graduates and academics who want to enter the private sector and scale the positive impact of evolving technologies
+The Professional Certificate in Machine Learning and Artificial Intelligence from UC Berkeley helps you dive deep into the key concepts of ML/AI technologies and lead innovation in a rapidly transforming economy. In a world where industries are being reshaped by GenAI, data analytics, and Natural Language Processing (NLP), this program equips you with the technical and strategic expertise to thrive.Developed in collaboration with UC Berkeley’s College of Engineering and Haas School of Business, this six-month program combines rigorous foundations in ML/AI, data analytics, deep neural networks, NLP, and GenAI with hands-on training on cutting-edge tools and platforms. You will also gain industry insights, career guidance, and market-ready practical skills to drive AI adoption and accelerate your career in this competitive landscape.
+The Professional Certificate in Machine Learning and Artificial Intelligence is designed for professionals and fresh graduates with a background in technology or mathematics who want to build expertise in ML/AI and pursue a high-demand career in this field. The program is ideal for:IT and engineering professionals who want to unlock new opportunities for career growth or chart a cutting-edge career pathData and business analysts who want to gain better growth trajectoriesRecent science, technology, engineering, and mathematics (STEM) graduates and academics who want to enter the private sector and scale the positive impact of evolving technologies
 A bachelor's degree or higher
 Strong math skills
 Some programming experience
@@ -18,6 +18,37 @@ Explore innovative business applications for generative AI
 Develop a market-ready GitHub portfolio to show prospective employers
 Learn from UC Berkeley's globally recognized faculty, and gain a verified digital certificate of completion from UC Berkeley Executive Education
 This program introduces learners to the fundamental applications of automation and machine learning, while also allowing them to explore the current capabilities and potential of generative AI.
+Your learning journey will commence with exploring the basic concepts of ML/AI, industry-standard notations, and real-world contexts for the data science life cycle. It will then progress to drawing business conclusions from data sets and visualizations.
+Module 1: Introduction to Machine Learning
+Module 2: Fundamentals of Statistics and Distribution Functions
+Module 3: Introduction to Data Analytics
+Module 4: Fundamentals of Data Analytics
+Module 5: Practical Applications I
+In this section, you will gain hands-on experience with coding in Python to create k-means algorithms and apply functions. You will also learn how to predict outcomes using multiple linear regression models, create visual decision trees, and interpret various kinds of ML/AI decision models.
+Module 6: Clustering and Principal Component Analysis
+Module 7: Linear and Multiple Regressions
+Module 8: Feature Engineering and Overfitting
+Module 9: Model Selection and Regularization
+Module 10: Time Series Analysis and Forecasting
+Module 11: Practical Application II
+Module 12: Classification and k-Nearest Neighbors
+In the final section, you will gain a deeper understanding of advanced ML/Al concepts, such as natural language processing, deep neural networks, and generative AI. You will also develop a professional GitHub portfolio showcasing your skills to prospective employers.
+Module 13: Logistic Regression
+Module 14: Decision Trees
+Module 15: Gradient Descent and Optimization
+Module 16: Classifying Nonlinear Features
+Module 17: Practical Application III
+Module 18: Natural Language Processing
+Module 19: Recommendation Systems
+Module 20: Ensemble Techniques
+Module 21: Deep Neural Networks I
+Module 22: Deep Neural Networks II
+You will gain a clear understanding of how generative AI works and explore its practical applications, apply your learning through an independent capstone project that addresses a real-world ML/AI challenge, and present your findings and portfolio on GitHub to demonstrate your readiness for applied ML/AI roles.
+Module 23: Introduction to Generative AI
+Module 24: Capstone Project
+Get instant replies to your questions about program content from our AI Tutor. Find the information you need to learn more confidently and move through topics and key learnings.
+Learn alongside global peers and grow your professional network. Engage in insightful discussions, share experiences and learn from diverse perspectives to enrich your learning.
+Reinforce your learning via live sessions. Recordings are made available with video chapters and transcripts to make learning easy.
 The knowledge gained each week in this ML/AI program prepares you to conduct your own research and analysis in a capstone project. You will gain the opportunity to interact with industry experts to identify a specific problem within your field and leverage their expertise along with the concepts, models, and tools taught in the program to devise a solution to your chosen problem. By the end of the program, you will come away with a professional-quality GitHub portfolio presentation that you can share on your LinkedIn profile or with potential employers.
 Over the course of this program, you will gain hands-on coding experience using the following tools:
 Python
@@ -49,7 +80,7 @@ Embark on an exciting journey to understand, build, and deploy generative AI. Em
 Gain a deeper understanding of ML/Al models and applications through real-world industry examples. Take away new ideas and problem-solving concepts to solve complex ML/Al problems within your own organization.
 Peet's Coffee
 Learn how this specialty coffee roaster and retailer in the San Francisco Bay Area uses ML to determine the best location for new stores.
-Transitioning to a career in ML/AI engineering requires a variety of hard and soft skills. This program guides you as you navigate your journey to your new career path, including crafting an elevator pitch and communication tips. These services are provided by Emeritus, our learning collaborator for this program. The program support team includes program facilitators who will help you reach your learning goals and career coaches to guide you through your job search. Our primary goal is to give you the skills needed to be prepared for a job in this field; however, job placement is not guaranteed.
+The Professional Certificate in Machine Learning and Artificial Intelligence will help you transition into a career in ML/AI with a variety of hard and soft skills. This program guides you as you navigate your journey to your new career path, including crafting an elevator pitch and communication tips. These services are provided by Emeritus, our learning collaborator for this program. The program support team includes program facilitators who will help you reach your learning goals and career coaches to guide you through your job search. Our primary goal is to give you the skills needed to be prepared for a job in this field; however, job placement is not guaranteed.
 Crafting your elevator pitch
 Navigating your job search
 LinkedIn profile guidance
@@ -59,7 +90,9 @@ Negotiating salary
 Job search and interviewing for ML/AI positions
 Communicating ML/AI concepts through presentation skills
 Note: Learners will have access to up to 3 individualized career coaching sessions as an integral part of the program. Additional sessions may be requested based on demonstrated progress and alignment with the learner’s professional goals.
-Enrolling in the Professional Certificate in Machine Learning and Artificial Intelligence program can become your first step toward pursuing the UC Berkeley Executive Education Certificate of Business Excellence (COBE). The Certificate of Business Excellence gives individuals the opportunity to acquire and hone new skills and do it on a timeline that works with your busy schedule. Participants will earn a mark of distinction with certification from a world-class university, and enjoy the flexibility of completing the program in up to three years.Learn more about the program and associated alumni benefits here.
+UC Berkeley Executive Education delivers programs designed by forward-thinking faculty who bridge academic rigor with real-world impact and help drive innovation and thought leadership. You will gain access to the university’s globally recognized expertise, including award-winning professors, cutting-edge research from national laboratories, and a front-row seat to AI and ML innovation through the university’s proximity to Silicon Valley.
+Through a hands-on learning environment that integrates the technical and strategic dimensions of AI, this program is taught by leading faculty from both engineering and business disciplines. It empowers professionals to apply AI in meaningful ways that drive organizational value.
+Enrolling in the Professional Certificate in Machine Learning and Artificial Intelligence can become your first step toward pursuing the UC Berkeley Executive Education Certificate of Business Excellence (COBE). The Certificate of Business Excellence gives individuals the opportunity to acquire and hone new skills and do it on a timeline that works with your busy schedule. Participants will earn a mark of distinction with certification from a world-class university, and enjoy the flexibility of completing the program in up to three years.Learn more about the program and associated alumni benefits here.
 Join local alumni chapters or clubs in your region
 Participate in the annual Berkeley Haas Alumni Conference
 Attend select Berkeley Haas and Berkeley Executive Education Networking events open to the COBE community
@@ -76,6 +109,70 @@ Get recognized! Upon successful completion of the program, UC Berkeley Executive
 Successful completion of this program fulfills four curriculum days (minimum requirement of 17 curriculum days) towards the UC Berkeley Certificate of Business Excellence (COBE).
 Learn more about how it works.
 Note: This program results in a digital certificate of completion and is not eligible for degree credit/CEUs. After successful completion of the program, your verified digital certificate will be emailed to you in the name you used when registering for the program. All certificate images are for illustrative purposes only and may be subject to change at the discretion of UC Berkeley College of Engineering, Haas School of Business, and Berkeley Executive Education.
+The Professional Certificate in Machine Learning and Artificial Intelligence is designed for individuals with a background in technology or mathematics who want to advance into a high-demand career. It is especially relevant for software engineers, IT and engineering professionals, data and business analysts, and recent STEM graduates or academics seeking to enter the private sector.
+You will gain exposure to foundational concepts in machine learning, artificial intelligence, and generative AI. The curriculum blends theory with hands-on learning, real-world problem solving, and a capstone project, ensuring you develop with market-ready skills and a professional GitHub portfolio.
+Yes. The program explores advanced ML/AI concepts, including Natural Language Processing and generative AI. You will analyze and test large language models such as ChatGPT to understand how large language models function and how they can be applied to business problems.
+The best AI course depends on your career goals, learning preferences, and the outcomes you want to achieve. Some courses emphasize theory, while others focus on applied learning. The Professional Certificate in Machine Learning and Artificial Intelligence from UC Berkeley combines foundational concepts, advanced topics such as generative AI and NLPs, and hands-on projects. It also offers exposure to industry experts and career guidance, making it a strong option if you want to apply AI to real-world problems and build a portfolio to showcase your skills.
+Yes, a course can accelerate your path, but becoming an AI expert requires both structured learning and ongoing practice. This program provides a deep dive into machine learning, natural language processing, deep neural networks, and real-world problem-solving through a capstone project. By the end, you will have gained exposure to advanced tools, built a professional GitHub portfolio, and developed market-ready skills that position you for specialized ML/AI roles.
+How do I know whether this program is right for me?
+After reviewing the information on the program landing page, we recommend you submit the short form above to gain access to the program brochure, which includes more in-depth information. If you still have questions on whether this program is a good fit for you, please email learner.success@emeritus.org, and a dedicated program advisor will follow up with you very shortly.
+Are there any prerequisites for this program?
+Some programs do have prerequisites, particularly the more technical ones. This information will be noted on the program landing page and in the program brochure. If you are uncertain about program prerequisites and your capabilities, please email us at learner.success@emeritus.org for assistance.
+What are the requirements to earn a certificate?
+This is a graded program. You must complete a combination of individual assignments, quizzes, and a final project. Each component carries a certain number of points, and a cumulative score of 75 percent is required to pass and obtain your professional certificate.
+Will I be guaranteed a job upon completion of the program?
+The primary objective of this program is to give you the skills you need to be prepared for a job in this field. While eligible participants will receive career coaching and support and may receive introductions to our hiring partners, job placement is not guaranteed.
+How much time will I be expected to devote to this program?
+Each program includes an estimated learner effort per week. This is referenced at the top of the program landing page under the “Duration” section and in the program brochure, which you can obtain by submitting the short form at the top of this web page.
+How will I spend my time in this program?
+You will divide your learning time between viewing recorded coding demos and video lectures, contributing to class discussions, completing assignments, projects, and knowledge checks, and attending optional live sessions with industry experts and program leaders.
+How is the program administered? Can the program be accessed any time?
+The program is accessed through the custom learning portal. This portal will give you access to all program-related content, such as video lectures, assignments, and discussions. Live office hours will be conducted using a webinar tool.
+The video lectures and assignments are accessible weekly throughout the program. In the event you miss a live session, a recording will be made available.
+Do I need to attend live sessions every week?
+Faculty video lectures are recorded, allowing you to watch these on your own schedule. However, participation in optional live sessions and discussion boards is highly encouraged. Live sessions will give you the opportunity to draw on the coding experience of our industry-experienced program leaders to answer your questions and help reach your learning goals. The discussion boards are also an integral part of the learning experience, giving you and your peers the opportunity to learn together and receive guidance from the moderators.
+Can I download the program videos?
+You can download video transcripts, assignment templates, readings, etc. However, the video lectures are only available for streaming and require an internet connection.
+How do I interact with other program participants?
+You can communicate with other participants through our learning platform. You will be able to form groups based on your interests and location. A direct messaging feature is also available through the platform.
+What is it like to learn online with the learning collaborator, Emeritus?
+More than 300,000 learners across 200 countries have chosen to advance their skills with Emeritus and its educational learning partners. In fact, 90 percent of the respondents of a recent survey across all of our programs said that their learning outcomes were met or exceeded.
+All the contents of the course would be made available to students at the commencement of the course. However, to ensure the program delivers the desired learning outcomes the students may appoint Emeritus to manage the delivery of the program in a cohort-based manner the cost of which is already included in the overall course fee of the course.
+A dedicated program support team is available 24/5 (Monday to Friday) to answer questions about the learning platform, technical issues, or anything else that may affect your learning experience.
+What are the requirements to earn the certificate?
+Each program includes an estimated learner effort per week, so you can gauge what is required before you enroll. This is referenced at the top of the program landing page under the “Duration” section and in the program brochure, which you can obtain by submitting the short form at the top of this web page. All programs are designed to fit into your working life.
+This program is scored as a pass or no-pass. Participants must complete the required activities to pass and obtain the certificate of completion. Some programs include a final project submission or other assignments to obtain pass status. This information will be noted in the program brochure. Please contact us at learner.success@emeritus.org if you need further clarification of any specific program requirements.
+What type of certificate will I receive?
+Upon successful completion of the program, you will receive a smart digital certificate. The smart digital certificate can be shared with friends, family, schools, or potential employers. You can use it on your cover letter, résumé, and/or display it on your LinkedIn profile.
+The digital certificate will be sent approximately two weeks after the program, once grading is complete.
+Can I get the hard copy of the certificate?
+No, only verified digital certificates will be issued upon successful completion. This allows you to share your credentials on social platforms such as LinkedIn, Facebook, and Twitter.
+What is the organizational structure of Berkeley Executive Education?
+UC Berkeley Center for Executive Education, dba Berkeley Executive Education, is a California nonprofit organization formed for the purpose of operating executive education programs in support of UC Berkeley and the Haas School of Business.
+Do I receive alumni status after completing this program?
+No, there is no alumni status granted for this program. In some cases, there are credits that count toward a higher level of certification. This information will be clearly noted in the program brochure.
+How long will I have access to the learning materials?
+You will have access to the learning platform and all program materials (videos excluded) for one full year following the program end date. Access to the learning platform is restricted to registered participants per the terms of agreement.
+What equipment is needed or the technical requirements for this program?
+To successfully complete this course/program online, you must have access to a device meeting the minimum requirements, found here. In addition, Microsoft Office or similar product and a PDF viewer are required to access documents, spreadsheets, presentations, PDF files, and transcripts in all programs. There will be additional software and tools required, such as Anaconda, GitHub, and Zoom. Please check the learning platform on the first day of class.
+Do I need to be online to access the program content?
+Yes, the learning platform is accessed via the internet and video content is not available for download. You can download files of video transcripts, assignment templates, readings, etc. Video lectures must be streamed via the internet, and webinars and small group sessions will require an internet connection.
+What is the program fee for the program, and what forms of payment do you accept?
+The program fee is shown at the top of this page, and payment must be made in US dollars only.
+Flexible payment options, group enrollment benefits, and referral bonus are available.
+Tuition assistance may be available for participants who qualify. Please contact your program advisor to discuss.
+What if I don’t have a credit card? Is there another mode of payment accepted?
+Yes, you can do the bank remittance in USD via wire transfer. Please contact your program advisor for more details.
+Is there an option to make flexible payments for this program?
+Yes, flexible payment options are available for this program. We partner with loan providers to offer you flexible and transparent loan options. More information about loan financing is available here. Installment payments are also available — you can find the options here.
+Does the program fee include taxes? Are there any additional fees?
+Yes, the program fee is inclusive of any taxes with the exception of GST for Singapore residents.
+Who will be collecting the payment for the program?
+Emeritus collects all program payments, provides learner enrollment and program support, and manages learning platform services.
+Are there any restrictions on the types of funding that can be used to pay for the program?
+Program fees for Emeritus programs with UC Berkeley Executive Education  may not be paid for with (a) funds from the GI Bill, the Post-9/11 Educational Assistance Act of 2008, or similar types of military education funding benefits or (b) Title IV financial aid funds.
+What is the program refund and deferral policy?
+For the program refund and deferral policy, please click the link here.
 Didn't find what you were looking for? Write to us at learner.success@emeritus.org or Schedule a call with one of our Program Advisors or call us at +1 315 904 9320 (U.S.) +44 131 381 6127 (U.K.) +65 3138 9495 (Singapore)
 Learn more
 Starts On
