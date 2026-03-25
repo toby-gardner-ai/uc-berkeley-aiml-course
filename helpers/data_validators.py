@@ -21,8 +21,8 @@ class URLPolicy(BaseModel):
 
 
 class ApprovedURL(BaseModel):
-    url: str
     policy: URLPolicy = Field(default_factory=URLPolicy)
+    url: str
 
     @field_validator("url")
     @classmethod
@@ -78,8 +78,8 @@ class QueryPolicy(BaseModel):
 
 
 class ApprovedQuery(BaseModel):
-    query: str = Field(min_length=10)
     policy: QueryPolicy = Field(default_factory=QueryPolicy)
+    query: str = Field(min_length=10)
 
     @field_validator("query")
     @classmethod
